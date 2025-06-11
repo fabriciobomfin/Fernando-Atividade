@@ -1,3 +1,9 @@
+"""
+Nome do arquivo: pecas_view.py
+Equipe:  Fabrício Bomfim, Felipe Mateus, Igor Santos,  Lucas Barbosa
+Turma: G91234
+Semestre: 2025.1
+"""
 import tkinter as tk
 from tkinter import messagebox
 

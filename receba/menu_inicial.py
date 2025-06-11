@@ -1,6 +1,6 @@
 """
 Nome do arquivo: menu_inicial.py
-Equipe: Fabrício Bomfim, 
+Equipe: Fabrício Bomfim, Felipe Mateus, Igor Santos,  Lucas Barbosa
 Turma: G91234
 Semestre: 2025.1
 """
